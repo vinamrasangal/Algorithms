@@ -1,2 +1,2 @@
 # Algorithms
-Important Algorithms that are useful in solving DSA problems.
+Collection of important algorithm patterns with exemplary problems.
